@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .navigation {
+    a {
+      color: white;
+      &:hover {
+        color: white;
+      }
+    }
+  
+  }
+  .get{
+    width: 100%;
+    height: 700px;
+    background-color: $main-color;
+   justify-content: center;
+   align-items: center;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 50px;
+
+  }
+  
+  .btn {
+    
+    background-color: purple; 
+    color: #ffffff;
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+.container{
+    width: 100%;
+    font-size: 20px;
+    background-image: url(https://www.shutterstock.com/image-illustration/white-geometric-background-copy-space-260nw-1922035253.jpg);
+}
+.cols1{
+    background-color: $main-color;
+    color: white;
+}
+.container{
+   
+   
+   
+    
+    .cnt{
+       
+      
+        
+        background-color:  $main-color;
+        color: white;
+    }
+}
+.container{
+    .projects{
+        display: flex;
+        background-color: $main-color ;
+        color: white;
+    }
+
+}
+.forms{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    
+}
+.forms{
+    
+    background-image: url(https://www.shutterstock.com/image-illustration/white-geometric-background-copy-space-260nw-1922035253.jpg);
+}
